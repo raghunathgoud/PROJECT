@@ -78,7 +78,3 @@ module "bigquery" {
   }
 }
 ```
-
-Functional examples are included in the
-[examples](./examples/) directory.
-
