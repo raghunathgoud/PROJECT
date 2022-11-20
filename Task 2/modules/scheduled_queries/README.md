@@ -1,6 +1,3 @@
-# BigQuery Scheduled Queries
-
-This submodule is used to create [scheduled queries](https://cloud.google.com/bigquery/docs/scheduling-queries) that can be run on a recurring basis.
 
 
 Example:
